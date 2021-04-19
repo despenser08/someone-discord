@@ -1,0 +1,31 @@
+{
+  "name": "someone-discord",
+  "version": "0.0.1",
+  "description": "@someone",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/despenser08/someone-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "djs",
+    "ping",
+    "someone",
+    "mention"
+  ],
+  "author": "despenser08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/despenser08/someone-discord/issues"
+  },
+  "homepage": "https://github.com/despenser08/someone-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
